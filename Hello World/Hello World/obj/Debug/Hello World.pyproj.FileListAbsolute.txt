@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Hello World.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\obj\Debug\Hello World.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\obj\Debug\Hello_World.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\obj\Debug\Hello World.pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Hello World\Hello World\obj\Debug\Hello World.exe
