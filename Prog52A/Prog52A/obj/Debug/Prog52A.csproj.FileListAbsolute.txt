@@ -1,0 +1,3 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52A\Prog52A\obj\Debug\Prog52A.csprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52A\Prog52A\obj\Debug\Prog52A.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52A\Prog52A\obj\Debug\Prog52A.csproj.GenerateResource.Cache

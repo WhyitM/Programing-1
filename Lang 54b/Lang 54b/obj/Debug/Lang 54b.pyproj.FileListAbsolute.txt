@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Lang 54b.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Lang 54b.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Lang 54b.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\obj\Debug\Lang 54b.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\obj\Debug\Lang_54b.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\obj\Debug\Lang 54b.pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Lang 54b\Lang 54b\obj\Debug\Lang 54b.exe

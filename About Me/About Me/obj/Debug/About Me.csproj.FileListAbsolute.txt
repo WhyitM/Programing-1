@@ -1,0 +1,7 @@
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\bin\Debug\About Me.exe
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\bin\Debug\About Me.pdb
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\obj\Debug\About Me.csprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\obj\Debug\About Me.exe
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\obj\Debug\About Me.pdb
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\obj\Debug\About_Me.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\About Me\About Me\obj\Debug\About Me.csproj.GenerateResource.Cache
