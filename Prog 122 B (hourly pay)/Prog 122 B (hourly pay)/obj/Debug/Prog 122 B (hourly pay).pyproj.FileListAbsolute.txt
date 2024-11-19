@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\obj\Debug\Prog 122 B (hourly pay).pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\obj\Debug\Prog_122_B__hourly_pay_.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\obj\Debug\Prog 122 B (hourly pay).pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Prog 122 B (hourly pay).exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Prog 122 B (hourly pay).exe
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Prog 122 B (hourly pay).dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122 B (hourly pay)\Prog 122 B (hourly pay)\obj\Debug\Prog 122 B (hourly pay).exe

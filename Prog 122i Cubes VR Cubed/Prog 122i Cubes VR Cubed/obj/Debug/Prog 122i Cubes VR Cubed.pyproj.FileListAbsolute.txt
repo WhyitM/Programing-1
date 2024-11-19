@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Prog 122i Cubes VR Cubed.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Prog 122i Cubes VR Cubed.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Prog 122i Cubes VR Cubed.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\obj\Debug\Prog 122i Cubes VR Cubed.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\obj\Debug\Prog_122i_Cubes_VR_Cubed.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\obj\Debug\Prog 122i Cubes VR Cubed.pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 122i Cubes VR Cubed\Prog 122i Cubes VR Cubed\obj\Debug\Prog 122i Cubes VR Cubed.exe

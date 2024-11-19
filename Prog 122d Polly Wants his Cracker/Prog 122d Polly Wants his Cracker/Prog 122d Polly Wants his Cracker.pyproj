@@ -1,39 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{6E1C6D76-5F49-4075-97EF-C8E51B8B52F2}</ProjectGuid>
+    <ProjectGuid>{B17638EE-CBB4-4445-97DF-7C445FD20B5A}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <RootNamespace>Lang_58b</RootNamespace>
-    <AssemblyName>Lang 58b</AssemblyName>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Prog_122d_Polly_Wants_his_Cracker</RootNamespace>
+    <AssemblyName>Prog 122d Polly Wants his Cracker</AssemblyName>
+    <DebugInfo>True</DebugInfo>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <OutputPath>bin\Debug\</OutputPath>
     <DebugSymbols>True</DebugSymbols>
     <DebugType>Full</DebugType>
     <Optimize>False</Optimize>
-    <OutputType>WinExe</OutputType>
-    <MainFile>Program.py</MainFile>
-    <DebugInfo>True</DebugInfo>
-    <StartArguments>-X:Debug Program.py</StartArguments>
-    <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
-    <StartProgram>C:\Program Files (x86)\SharpDevelop\4.4\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <OutputPath>bin\Release\</OutputPath>
     <DebugSymbols>False</DebugSymbols>
     <DebugType>None</DebugType>
     <Optimize>True</Optimize>
-    <OutputType>WinExe</OutputType>
-    <MainFile>Program.py</MainFile>
-    <StartArguments>Program.py</StartArguments>
-    <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
-    <StartProgram>C:\Program Files (x86)\SharpDevelop\4.4\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="IronPython">
@@ -51,24 +40,13 @@
     <Reference Include="System.Data.DataSetExtensions">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="System.Drawing" />
-    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainForm.py" />
-    <Compile Include="Program.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="app.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="MainForm.resx">
-      <DependentUpon>MainForm.py</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="MyClass.py" />
   </ItemGroup>
   <Import Project="$(PythonBinPath)\SharpDevelop.Build.Python.targets" />
 </Project>

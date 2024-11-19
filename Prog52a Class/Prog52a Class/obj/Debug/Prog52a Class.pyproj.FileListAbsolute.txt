@@ -1,0 +1,10 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Prog52a Class.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Prog52a Class.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Prog52a Class.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\obj\Debug\Prog52a Class.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog52a Class\Prog52a Class\obj\Debug\Prog52a Class.exe
