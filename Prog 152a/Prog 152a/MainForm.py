@@ -73,17 +73,19 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
-        self._listBox1.Items.Add(Heading)
+        
         Heading = "Sum of the multiples of 3"
         
         summed = 3
        
             
-        for summed in range (0, 9669):
-            repeat(3 + 3)
+        for summed in range (0, 9670):
+               
             
-            line = summed
-            
+            repeat = 3 + 3
+            repeat(3+3)
+            line = summed 
+        self._listBox1.Items.Add(Heading)    
         self._listBox1.Items.Add(line)
             
             
@@ -92,7 +94,7 @@ class MainForm(Form):
             
 
     def Button2Click(self, sender, e):
-        self._listBox1.Items.Add(line)
+        pass
 
     def Button3Click(self, sender, e):
         Application.Exit()

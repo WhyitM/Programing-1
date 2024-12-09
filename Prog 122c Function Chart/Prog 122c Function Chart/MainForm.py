@@ -81,7 +81,7 @@ class MainForm(Form):
      self._listBox1.Items.Add(heading)
      Number = 2
      Var = 1
-     for Number in range (0, 10):
+     for Number in range (0, 6):
           
            Adding = range (0, 11, 2) 
            

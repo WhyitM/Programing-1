@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Program 152b adding even numbers.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Program 152b adding even numbers.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Program 152b adding even numbers.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\obj\Debug\Program 152b adding even numbers.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\obj\Debug\Program_152b_adding_even_numbers.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\obj\Debug\Program 152b adding even numbers.pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Program 152b adding even numbers\Program 152b adding even numbers\obj\Debug\Program 152b adding even numbers.exe

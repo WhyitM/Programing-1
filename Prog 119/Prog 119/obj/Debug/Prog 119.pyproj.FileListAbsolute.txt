@@ -1,0 +1,12 @@
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\obj\Debug\Prog 119.pyprojResolveAssemblyReference.cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\obj\Debug\Prog_119.MainForm.resources
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\obj\Debug\Prog 119.pyproj.GenerateResource.Cache
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Prog 119.exe.config
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Prog 119.exe
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Prog 119.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\IronPython.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\IronPython.Modules.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Microsoft.Scripting.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\matusewi.w\Desktop\Programing 1\Prog 119\Prog 119\obj\Debug\Prog 119.exe
